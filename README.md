@@ -1,2 +1,2 @@
 # Plane-Wars
-飞机大战
+启动：python .\main.py
